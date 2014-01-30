@@ -1,0 +1,13 @@
+{
+  "name": "front-end-engineer-interview-exercise",
+  "version": "0.0.0",
+  "private": true,
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jade": "~0.7.0",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-cssmin": "~0.6.1",
+    "grunt-contrib-watch": "~0.5.1"
+  }
+}
